@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: arial;
+    background: rgb(193, 193, 223);
+    background-image: url(img/teenus2.jpg);
+    background-position: center;
+}
+
+.login{
+    width: 500px;
+    height: 400px;
+    background: #1a5070;
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 7px 13px 37px #b12131;
+    padding: 20px 30px;
+    border-top: 4px solid #b12131;
+    color: white;
+    border-radius: 5px;
+}
+
+.fondo{
+    width: 500px;
+    height: 400px;
+    margin: center;
+    
+}
+
+.fondoform{
+    position: relative;
+    width: 100%;
+    padding-right: 0.75rem;
+    padding-left: 0.75rem;
+  }
+  
+
+.login h5{
+    margin: 0;
+    text-align: center;
+    height: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid;
+    font-size: 20px;
+}
+
+.controls{
+    border-radius: 5px;
+    width: 100%;
+    border: 1px solid #b12131;
+    margin-bottom: 15px;
+    padding: 11px 10px;
+    background: rgb(202, 202, 224);
+    font-size: 14px;
+    font-weight: bold;
+    color: #17527c;
+}
+
+.buttons{
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+    background: #b12131;
+    border: none;
+    color: white;
+    border-top: 4px solid #b12131;
+    margin-bottom: 16px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.buttons:hover{
+    border-radius: 5px;
+    width: 100%;
+    height: 40px;
+    background: whitesmoke;
+    border: none;
+    color: #b12131;
+    border-top: 4px solid #b12131;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.login p{
+    height: 40px;
+    text-align: center;
+    border-bottom: 1px solid;
+}
+
+.login a{
+    color:white;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.login a:hover{
+    text-decoration: underline;
+
+}

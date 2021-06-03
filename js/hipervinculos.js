@@ -1,0 +1,17 @@
+$(document).ready(function(){
+    $('.buscar-usuario').click(function(){
+        $('#container-fluid').load("buscarUsuarios.php"); 
+    }); 
+    $('.registrar-usuario').click(function(){
+        $('#container-fluid').load("registroUsuarios.php"); 
+    });
+    $('.registrar-empresa').click(function(){
+        $('#container-fluid').load("registroEmpresa.php");
+    });
+    $('.buscar-empresa').click(function(){
+        $('#container-fluid').load("buscarEmpresa.php");
+    }); 
+    $('.registro-actividades').click(function(){
+        $('#container-fluid').load("registroActividades.php");
+    }); 
+}); 
