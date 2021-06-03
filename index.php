@@ -79,8 +79,8 @@
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Componentes:</h6>
-                        <a class="collapse-item text-wrap text-center registrar-empresa" href="#">Registrar Empresas</a>
-                        <a class="collapse-item text-wrap text-center buscar-empresa" href="#">Buscar y Actualizar Empresas</a>
+                        <a class="collapse-item text-wrap text-center" href="#">Registrar Empresas</a>
+                        <a class="collapse-item text-wrap text-center" href="#">Buscar, Actualizar y Borrar Empresas</a>
                     </div>
                 </div>
             </li>
@@ -95,8 +95,8 @@
                 <div id="collapseProyectos" class="collapse" aria-labelledby="headingProyectos" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Componentes:</h6>
-                        <a class="collapse-item text-wrap text-center registro-proyectos" href="#">Registrar Proyectos</a>
-                        <a class="collapse-item text-wrap text-center buscar-proyectos" href="#">Buscar, Actualizar y Borrar Proyectos</a>
+                        <a class="collapse-item text-wrap text-center registrar-proyecto" href="#">Registrar Proyectos</a>
+                        <a class="collapse-item text-wrap text-center buscar-proyecto" href="#">Buscar, Actualizar y Borrar Proyectos</a>
                     </div>
                 </div>
             </li>
@@ -111,8 +111,8 @@
                 <div id="collapseActivities" class="collapse" aria-labelledby="headingActivities" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Componentes:</h6>
-                        <a class="collapse-item text-wrap text-center registro-actividades" href="#">Registrar Actividades</a>
-                        <a class="collapse-item text-wrap text-center buscar-actividades" href="#">Buscar, Actualizar y Borrar Actividades</a>
+                        <a class="collapse-item text-wrap text-center" href="#">Registrar Actividades</a>
+                        <a class="collapse-item text-wrap text-center" href="#">Buscar, Actualizar y Borrar Actividades</a>
                     </div>
                 </div>
             </li>

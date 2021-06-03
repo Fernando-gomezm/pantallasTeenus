@@ -51,7 +51,7 @@
                                 </div>
                                 <hr>
                                 <div class="form-group row">
-                                    <div class="col-sm-8">
+                                    <div class="col-sm-12">
                                         <label>Comentarios: </label>
                                         <textarea class="form-control txt-comentarios" id="txt-repetir-password"></textarea>
                                     </div>                                               
